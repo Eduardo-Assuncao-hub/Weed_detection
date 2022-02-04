@@ -1,2 +1,2 @@
 # Weed_detection
-Semantic segmentation of weed
+Computer vision application for precision agriculture
