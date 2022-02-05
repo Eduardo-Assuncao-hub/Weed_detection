@@ -1,7 +1,7 @@
 # Computer vision application for precision agriculture on Edge device.
 
-## Task: Weed segmentation.
-## Model: DeepLab.
+## * Task: Weed segmentation.
+## * Model: DeepLab.
 
 ## Computer Vision Deployment (Jetson Nano Device)
 
